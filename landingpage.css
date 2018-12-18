@@ -53,13 +53,11 @@ main {
   text-align: center;
 }
 .midsec {
-  background-color: grey;
+  background-color: #C5C1C1;
   margin: 0 auto;
   height: 500px;
 }
-.box {
-  border: 2px solid black;
-}
+
 
 
 /*
